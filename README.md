@@ -2,13 +2,11 @@
 
 **OVERVIEW**
 
-This project aims at classifying spending categories of purchase orders using NLP techniques, one-hot enconding, and model such as Random Forests
+This project aims at classifying spending categories of purchase orders using NLP techniques, one-hot enconding, and decision-treed based classifiers.
 
 **DATA ACCESS STATEMENT**
 
 The data used in this report is proprietary and owned by the client. Access to the data is restricted and governed by confidentiality agreements. Redistribution or external sharing of the data is not permitted without the explicit authorization of the client. All analyses and insights presented are based on this confidential data and are intended solely for internal use.
-
-The data folders contains only a limited number of rows to get an idea of data used in this project. However, you can look at the code on how I implement the task of classifying categories at differenet hierarchical levels
 
 **REQUIREMENTS**
 
