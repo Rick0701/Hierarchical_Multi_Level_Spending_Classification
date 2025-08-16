@@ -45,6 +45,10 @@ Install the required dependencies listed in `requirements.txt`
 <img src='https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white' alt='Pandas' />
 </div>
 
+**Feature Enginnering**
+
+regex, Singular Value Decomposition, One-hot encoding, TF-IDF
+
 **Machine Learning**
 
 Decision Trees, Random Forest, and Gradient Boosting
