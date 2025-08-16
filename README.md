@@ -1,8 +1,8 @@
 # Hierarchical Multi-level Spending Classification
 
-**OVERVIEW**
-
+**SHORT INTRO**
 This project aims at classifying spending categories of purchase orders using NLP techniques, one-hot enconding, and decision-treed based classifiers.
+Developed a machine learning framework to classify purchase orders into spending categories across four hierarchical levels. Built multi-step models (Decision Tree, Random Forest, Gradient Boosting) integrating prior predictions, with extensive feature engineering on text (regex, TF-IDF, LSI, Word2Vec) and categorical data. Achieved strong performance at higher levels of classification, demonstrating the impact of NLP on domain-specific short-text descriptions. Designed an “Ambiguity Score” metric to communicate model limitations to non-technical stakeholders and highlighted the importance of data quality and balance in procurement ML applications.
 
 **DATA ACCESS STATEMENT**
 
