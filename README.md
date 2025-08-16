@@ -32,5 +32,6 @@ Install the required dependencies listed in `requirements.txt`
    `pip install -r requirements.txt`
 
 **SKILLS**
-Python, Scikit-learn, Natural Language Processing
+
+Python, Scikit-learn, Natural Language Processing, matplotlib, pandas
 
