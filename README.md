@@ -33,5 +33,39 @@ Install the required dependencies listed in `requirements.txt`
 
 **SKILLS**
 
-Python, Scikit-learn, Natural Language Processing, matplotlib, pandas
+**Coding Language**
+
+<div>
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" />
+</div>
+
+**Data Manipulation**
+
+<div>
+<img src='https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white' alt='Pandas' />
+</div>
+
+**Machine Learning**
+
+Decision Trees, Random Forest, and Gradient Boosting
+
+<img src='https://img.shields.io/badge/Scikit%20Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white' alt='scikit-learn' />
+<img src='https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white' alt='SciPy' />
+
+
+**Natural Language Processing**
+
+<img src='https://img.shields.io/badge/NLTK-3776AB?logo=python&logoColor=fff' alt='nltk' />
+
+gensim
+
+**Data Visualization**
+
+<img src='https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white&logoSize=2' alt='matplotlib' />
+<img src='https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=Plotly&logoColor=white' alt='plotly' />
+
+
+Libraries/Tools: matplotlib, plotly
+
+
 
