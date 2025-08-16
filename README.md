@@ -30,3 +30,7 @@ Install the required dependencies listed in `requirements.txt`
    e.g. `python -m venv path\your_path`
 
    `pip install -r requirements.txt`
+
+**SKILLS**
+Python, Scikit-learn, Natural Language Processing
+
